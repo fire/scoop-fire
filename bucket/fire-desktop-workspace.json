@@ -19,7 +19,7 @@
         "calibre",
         "dbeaver",
         "cockroachdb",
-        "rocketchat",
+        "rocketchat-client",
         "discord"
     ]
 }
