@@ -3,10 +3,6 @@
     "homepage": "https://chibifire.com",
     "version": "2020-05-09T16_56_00_00",
     "license": "MIT",
-    "architecture": {
-        "64bit": {
-        }
-    },
     "depends": [
         "firefox",
         "gpg4win",
