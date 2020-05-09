@@ -5,7 +5,6 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            
         }
     },
     "depends": [
