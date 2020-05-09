@@ -4,6 +4,7 @@
     "version": "2020-05-09T16_56_00_00",
     "license": "MIT",
     "checkver": "github",
+    "url": "https://raw.githubusercontent.com/fire/scoop-fire/master/bucket/fire-desktop-workspace.json",
     "depends": [
         "firefox",
         "gpg4win",
