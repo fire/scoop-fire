@@ -1,0 +1,13 @@
+{
+    "description": "Fire's desktop workspace - Use at your own risk",
+    "homepage": "https://chibifire.com",
+    "version": "2020-05-09T16:35+00:00",
+    "license": "MIT",
+    "depends": [
+        "firefox",
+        "gpg4win",
+        "steam",
+        "libreoffice-stable",
+        "gopass"
+    ]
+}
