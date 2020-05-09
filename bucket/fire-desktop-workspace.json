@@ -8,6 +8,12 @@
         "gpg4win",
         "steam",
         "libreoffice-stable",
-        "gopass"
+        "gopass",
+        "gitkraken",
+        "vscodium",
+        "zulu",
+        "calibre",
+        "dbeaver",
+        "cockroachdb"
     ]
 }
